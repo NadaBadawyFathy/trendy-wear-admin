@@ -14,7 +14,7 @@ import Reviews from "./Pages/Admin/Review";
 function App() {
   return (
     // <div id="up" className="container">
-      <Router>
+      <Router basename="/trendy-wear-admin">
         <Routes>
           <Route path="/" element={<AdminLogin />} />
           <Route path="/siderbar" element={<Sidebar />} />

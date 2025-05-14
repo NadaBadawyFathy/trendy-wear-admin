@@ -115,7 +115,7 @@ const DashboardPage = () => {
               <tr key={index} className="border-t">
                 <td className="p-3 flex items-center gap-2">
                   <img
-                    src={`/src/assests/user${index + 1}.svg`}
+                    src={`/public/images/user${index + 1}.svg`}
                     alt={user.name}
                     className="w-8 h-8 rounded-full"
                   />

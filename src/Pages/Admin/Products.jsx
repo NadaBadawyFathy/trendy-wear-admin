@@ -6,28 +6,28 @@ import edge from '../../assests/arrow-left.svg';
 const productsData = [
   {
     id: 1,
-    image: '/src/assests/product1.svg',
+    image: '/public/images/product1.svg',
     title: 'levis loose',
     subtitle: 'Cargo paints',
     price: '$90.00',
   },
   {
     id: 2,
-    image: '/src/assests/product2.svg',
+    image: '/public/images/product2.svg',
     title: 'levis loose',
     subtitle: 'Cargo paints',
     price: '$50.00',
   },
   {
     id: 3,
-    image: '/src/assests/product3.svg',
+    image: '/public/images/product3.svg',
     title: 'levis loose',
     subtitle: 'Cargo paints',
     price: '$30.00',
   },
   {
     id: 4,
-    image: '/src/assests/product4.svg',
+    image: '/public/images/product4.svg',
     title: 'levis loose',
     subtitle: 'Cargo paints',
     price: '$70.00',
